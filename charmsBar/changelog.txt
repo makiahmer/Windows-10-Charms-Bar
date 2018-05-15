@@ -1,0 +1,145 @@
+################################################################################################
+AUTHORING
+################################################################################################
+Developed by Makiah Merritt.
+
+About Me:
+It is my intention to build a free application that will serve as a standin charms bar for the
+Windows 10 Operating system (maybe windows 7 and 8 if it works). It should be noted that 
+I am a beginner in terms of C# programming as such not all of the code will be my own and I will
+try to source the original location of pieces I've gathered such as the mousekeyhood (Copyright (c) 2004-2015, George Mamaladze
+All) pluggin to handle
+global mouse and keyboard events.
+
+Development:
+I used Visual Studio Community 2015 and C#. The development process was on my Windows 10 Lenovo T420.
+
+Copyright:
+
+Permissions:
+
+
+################################################################################################
+BASIC CHANGELOG - http://keepachangelog.com/
+################################################################################################
+Developers:
+@mmerritt		Makiah Merritt	<makiahmer@gmail.com>
+
+# Change Log
+
+## [Unreleased]
+
+## [0.0.1] - 2015-12-21 10am
+### Added
+- Created this file as a documentation catch all.
+- Outlined project tasks
+
+
+
+################################################################################################
+TASK LIST
+################################################################################################
+================================================================================================
+BASELINE TASKS - Tasks that are essential to the main applications duties, such as consistent window structure
+================================================================================================
+Task		:	Window Positioning
+Type		:	Baseline
+Status		:	Development			(New Task, Planning, Development, Implementation, Complete)
+Last Touched:	date
+Description	:	Window appears at the right side of the screen like a Win 8 Charms bar
+To Do		:	Currently only developed for single screen systems. This should work on multi
+			:	screen systems like the Windows 8 charms bar.
+Research	:	Links to articles/forums/etc. that I've consulted
+			:	-
+------------------------------------------------------------------------------------------------
+Task		:	Window Closing
+Type		:	Baseline
+Status		:	Planning			(New Task, Planning, Development, Implementation, Complete)
+Last Touched:	date
+Description	:	Window closes on mouse leave (timeout), mouse click outside of application, or keyboard esc while mouse is over application.
+To Do		:	asdf
+Research	:	Links to articles/forums/etc. that I've consulted
+			:	-
+------------------------------------------------------------------------------------------------
+Task		:	Compatability Testing
+Status		:	New Task			(New Task, Planning, Development, Implementation, Complete)
+Last Touched:	date
+Description	:	What versions of windows can this application work on
+To Do		:	Review code used in the develpment process to see what systems support it.
+Research	:	Links to articles/forums/etc. that I've consulted
+			:	-
+------------------------------------------------------------------------------------------------
+Task		:	Application Wrapper
+Status		:	New Task			(New Task, Planning, Development, Implementation, Complete)
+Last Touched:	date
+Description	:	A simple setup wrapper.
+To Do		:	Create an installation exe
+Research	:	Links to articles/forums/etc. that I've consulted
+			:	- https://msdn.microsoft.com/en-us/library/ms173084(v=vs.90).aspx
+------------------------------------------------------------------------------------------------
+
+
+================================================================================================
+BASELINE FEATURE TASKS - Tasks that are essential to the applications intended purposes
+================================================================================================
+Audio Volume Control	|	Development		|	12/21/2015		|	Volume slider to control system volume. Currently I can use buttons for up down but slider is causing issues.
+																|	I also need to know how to get the current system volume to set the controls property on bar load.
+Task		:	Audio Volume Control
+Type		:	Baseline Feature
+Status		:	asdf			(New Task, Planning, Development, Implementation, Complete)
+Last Touched:	date
+Description	:	asdf
+To Do		:	asdf
+Research	:	Links to articles/forums/etc. that I've consulted
+			:	- http://stackoverflow.com/a/15251649/5443200
+------------------------------------------------------------------------------------------------
+Task		:	Screen Brightness Control
+Type		:	Baseline Feature
+Status		:	Planning			(New Task, Planning, Development, Implementation, Complete)
+Last Touched:	date
+Description	:	Control the screens brightness ()if applicable else disable toggle)
+To Do		:	asdf
+Research	:	Links to articles/forums/etc. that I've consulted
+			:	-
+------------------------------------------------------------------------------------------------
+
+
+================================================================================================
+FEATURE TASKS - Tasks that are not essential to the main applications duties
+================================================================================================
+Task		:	Audio Source Change
+Type		:	Feature
+Status		:	New Task			(New Task, Planning, Development, Implementation, Complete)
+Last Touched:	date
+Description	:	Similar to sound switch but a tile and dropdown instead of an tray icon.
+To Do		:	asdf
+Research	:	Links to articles/forums/etc. that I've consulted
+			:	-
+------------------------------------------------------------------------------------------------
+Task		:	App Customization
+Type		:	Feature
+Status		:	New Task			(New Task, Planning, Development, Implementation, Complete)
+Last Touched:	date
+Description	:	Allowing users control over various aspects of the app. 
+			:	Including
+			:		- Adding tiles to the bar
+			:		- Changing the bars appearance
+			:		- Changing the bars timeout period
+To Do		:	asdf
+Research	:	Links to articles/forums/etc. that I've consulted
+			:	-
+------------------------------------------------------------------------------------------------
+
+
+
+
+================================================================================================
+TYPE - Desc
+================================================================================================
+Task		:	asdf
+Type		:	asdf
+Status		:	asdf			(New Task, Planning, Development, Implementation, Complete)
+Last Touched:	date
+Description	:	asdf
+To Do		:	asdf
+------------------------------------------------------------------------------------------------

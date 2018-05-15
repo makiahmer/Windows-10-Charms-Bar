@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="charmsBar.settings" GeneratedClassName="displayOptions">
+  <Profiles />
+  <Settings>
+    <Setting Name="defaultBackColor" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">64, 64, 64</Value>
+    </Setting>
+    <Setting Name="userBackColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">64, 64, 64</Value>
+    </Setting>
+    <Setting Name="defaultDisplayInTaskbar" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="userDisplayInTaskbar" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="defaultDisplayTimeout" Type="System.TimeSpan" Scope="Application">
+      <Value Profile="(Default)">00:00:00</Value>
+    </Setting>
+    <Setting Name="userDisplayTimeout" Type="System.TimeSpan" Scope="User">
+      <Value Profile="(Default)">00:00:00</Value>
+    </Setting>
+    <Setting Name="defaultForeColor" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="userForeColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="defaultStartup" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="userStartup" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
